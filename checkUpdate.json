@@ -1,5 +1,15 @@
 {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "url": "https://github.com/Xelwel10/releases/releases",
-    "urlDemoSmarthajiri": "https://github.com/Xelwel10/releases/releases/download/3.2.1/DemoSmarthajiri.apk"
+    "urlDemoSmarthajiri": "https://github.com/Xelwel10/releases/releases/download/3.2.2/DemoSmarthajiri.apk",
+    "urlManipal": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Manipal.apk",
+    "urlHeliosnepal": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Heliosnepal.apk",
+    "urlCareerinnepal": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Careerinnepal.apk",
+    "urlManaramhr": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Manaramhr.apk",
+    "urlDigi": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Digi.apk",
+    "urlGmc": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Gmc.apk",
+    "urlGrdbl": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Grdbl.apk",
+    "urlEhpl": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Ehpl.apk",
+    "urlMediplus": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Mediplus.apk",
+    "urlMedibiz": "https://github.com/Xelwel10/releases/releases/download/3.2.2/Medibiz.apk"
 }
